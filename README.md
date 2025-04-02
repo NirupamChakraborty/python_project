@@ -1,5 +1,5 @@
 <h1><b>Pothole Detection System using OpenCV</b></h1> <br>
-**Overview**
+<h1>Overview</h1>
 <br>
 This project is a real-time pothole detection system built using Python and OpenCV. It processes video input (either from a video file or webcam) to detect potholes based on edge detection and contour analysis.
 
