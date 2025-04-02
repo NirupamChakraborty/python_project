@@ -2,14 +2,14 @@
 <h1>Overview</h1>
 <br>
 This project is a real-time pothole detection system built using Python and OpenCV. It processes video input (either from a video file or webcam) to detect potholes based on edge detection and contour analysis.
-
-**Collaboration**
+<br>
+<h1>Collaboration</h1>
 <hr>
 <br>
 This project was a collaborative effort by me(Nirupam Chakraborty) and my friends(Manash Khatowal, Mousam Deka, Lakhya Jyoti Saikia), where we explored computer vision techniques to solve a real-world problem.
 
 <br>
-**Features**
+<h1>Features</h1>
 <hr>
 <br>
 Real-time video processing (supports both webcam and video files)
