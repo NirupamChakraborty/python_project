@@ -12,12 +12,12 @@ This project was a collaborative effort by me(Nirupam Chakraborty) and my friend
 <h1>Features</h1>
 <hr>
 <br>
-Real-time video processing (supports both webcam and video files)
+‣ Real-time video processing (supports both webcam and video files)
 
-Grayscale conversion & Gaussian Blur for noise reduction
+‣ Grayscale conversion & Gaussian Blur for noise reduction
 
-Canny Edge Detection for identifying road surface irregularities
+‣ Canny Edge Detection for identifying road surface irregularities
 
-Contour Detection to locate potholes
+‣ Contour Detection to locate potholes
 
-Bounding Box & Labels to highlight detected potholes in the video feed
+‣ Bounding Box & Labels to highlight detected potholes in the video feed
